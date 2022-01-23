@@ -2,15 +2,9 @@
 
 SDW - Flutter - CV APP
 
-## Getting Started
+## Commmentaires
+- Dans l'ensemble tout s'est assez bien passé mise a part l'`AppBar` qui doit changer sur tous les écrans que je n'ai pas réussi a faire.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Airtable
+- Lien vers le projet Airtable :
+  - https://airtable.com/invite/l?inviteId=invn8VyQd3fmX1Ku9&inviteToken=e10314aa6e884efa452cda8c443d0b7b40f75ebc3dcb4c33c83c1cc6617b1fa3&utm_source=email
