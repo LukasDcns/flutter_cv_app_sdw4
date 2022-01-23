@@ -2,6 +2,9 @@
 
 SDW - Flutter - CV APP
 
+## Mise en place
+ - Attention j'ai mis en place une authentification via un fichier .env, vous trouverez un exemple ici `/assets/.env.dist`
+
 ## Commmentaires
 - Dans l'ensemble tout s'est assez bien passé mise a part l'`AppBar` qui doit changer sur tous les écrans que je n'ai pas réussi a faire.
 
